@@ -1,0 +1,11 @@
+1: to implement contrast streching , threshold, clipping , intensity level slicing.
+2: to extract 8 bit planes from an image , reconstruct the image using 8th , 7th  6th, 5th plane , find the diff bw original img and reconstructed image.
+
+8th March 2016
+1: to make histogram of an image.
+
+2: to perform addition of two images.
+
+3: to apply smoothining filter and weighted avg filter with diff sizes and  diff image border.
+
+4: to apply image sharpning and high boost filtering.
